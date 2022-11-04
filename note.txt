@@ -1,0 +1,70 @@
+nipro psd:
+html,css,boostrap,js
+
+font-family:----
+font-family: 'Lato', sans-serif;
+font-family: 'Grand Hotel', cursive;
+font-family: 'Nunito', sans-serif;
+
+fontawsam-
+
+color:-----
+black: #3d3d3d
+asah:  #000000
+white:  #ffffff
+pink: #e8565e
+
+
+padding:---------
+         xxl/xl/lg           md            sm/col
+header:top-50px              30px           30px/20px
+     bottom-100px            70px              60px/50px
+       
+                   
+popular: 
+top     100px              80px               50px/40
+bottom  120px              90px               70px/60          
+
+Statistic:                               
+top    100px                  80px                50px/40px
+bottom 120px                  90px               70px/60px     
+
+
+our menu:
+top 100px                  80px               50px/40px
+bottom 120px               90px               70px/60px
+
+Delicious:
+top 100px                  80px               50px/40px
+bottom 120px               90px              70px/60px         
+ 
+
+
+
+font-size:-----
+        xxl/xl/lg            md             sm/col
+header:
+    
+menu   25px                20px                16px
+h1     230px               170px               110px/80px
+p     25px                20px                18px/18px
+button  25px   
+
+popular:
+h1   120px                100px                  80px/65px
+p    25px                 20px                     18px
+p_h2  65/60px             50px                     50px
+p_text 22/19              19px                     19px
+
+Statistic:
+s_h2  /40px                 30px                      20px/30px
+s_p  33px                   25px              20px/30px
+
+our menu:                   
+m_h2 50px                    50px                  43px/43px
+m_p  22px                    22px                  18px/18px
+
+
+Delicious:
+d_text h1 100px          80px           80px/65px
+d_text p 29px/25px       25px        18px/18px         

@@ -1,0 +1,688 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+  /*header start*/
+  header{
+          padding: 20px 0 50px;
+   }
+   .logo a img {
+    width: 150px;
+    height: 45px;
+  }
+  .menu {
+    margin: 5px auto 0;
+  }
+   .menu ul li{
+      text-align: right;
+   }
+   .menu ul li a {
+      font-size: 16px;
+   }
+   .h_text h1{
+     font-size: 80px;
+   }
+   .h_text p {
+     margin-bottom: 15px;
+     font-size: 18px;
+  }
+  .btn_common {
+    width: 65%;
+    height: 43px;
+    font-size: 16px;
+   }
+    
+   /*header end*/
+   .Popular{
+        padding: 40px 0 60px;
+    }
+   .p_h1{
+        margin-bottom: 15px;
+        font-size: 65px;
+    }
+    .p_p{
+         font-size: 18px;
+    }
+    .p_item {
+        margin-right: 0px;
+        margin-top: 30px;
+    
+     }
+    .p_img img {
+        width: 75%;
+    }
+    .p_h2 {
+        font-size: 50px;
+    }
+    .p_text {
+        font-size: 19px;
+    }
+   /*popular end*/
+   /*Statistic start*/
+   .Statistic{
+      padding: 40px 0 60px;
+   }
+   .s_card {
+     margin: 50px auto 0;
+     width: 200px;
+     height: 200px;
+
+   }
+   .s_h2 {
+       margin-top: 50px;
+       font-size: 30px;
+   }
+   .s_p {
+        font-size: 30px;
+    }
+    /*Statistic end*/
+  /*our menu start*/
+   .u_menu{
+        padding: 40px 0 60px;
+  
+   }
+    .menu_item {
+        margin-top: 40px;
+       padding: 0 20px;
+   }
+   .menu_img {
+        margin-top: 0px;
+   }
+   .menu_img img {
+      width: 70px;
+      height: 70px;
+   }
+  .menu_text {
+      text-align: center;
+  }
+  .m_h2 {
+      margin-top: 5px;
+     font-size: 43px;
+  }
+  .m_p {
+      font-size: 18px;
+  }
+ /*our menu end*/
+   /*Delicious start*/
+  .Delicious {
+      padding: 40px 0 60px;
+  }
+  .d_text {
+      margin: 0px 0px 0px 0px;
+      padding: 0 4px;
+      text-align: center;
+   }
+   .d_text h1 {
+        font-size: 65px;
+    }
+   .d_text p {
+      margin: 10px 0 15px;
+      font-size: 18px;
+   }
+  /*Delicious end*/
+  /*Package start*/
+    .Package{
+        padding: 40px 0 60px;
+    }
+     .Pack_h2 {
+           margin: 20px 0 8px;
+           font-size: 35px;
+    }
+    .Pack_item {
+        margin: 50px auto 0;
+        padding: 29px 29px 15px;
+        width: 100%;
+        height: 334px;
+    }
+    .Pack_img img {
+         width: 35%;
+     }
+    .Pack_p {
+           font-size: 18px;
+    }
+    .Pack_btn {
+      width: 80%;
+       font-size: 18px;
+    }
+
+   /*Package end*/
+   /*chef start*/
+   .Chef{
+       padding: 40px 0 60px;
+   }
+   .c_img img {
+      width: 60%;
+   }
+   .c_text {
+       padding: 0 20px;
+   }
+   .c_text p {
+       margin: 22px 0px;
+       font-size: 22px;
+     
+    }
+    .c_text h1 {
+        font-size: 60px;
+    }
+
+
+   /*chef end*/
+    /*form start*/
+   .form{
+       padding: 40px 0 60px;
+     
+     }
+    .c_input {
+        height: 45px;
+        font-size: 20px;
+    }
+    .c_submit {
+        height: 45px;
+        font-size: 20px;
+    }
+
+   /*form end*/
+    /*footer start*/
+     footer{
+         padding: 50px 0 70px;
+    }
+    .f_1 {
+        text-align: center;
+    }
+    .f_h2 {
+
+        font-size: 45px;
+     }
+     .f_p {
+        font-size: 16px;
+    }
+    .f_2 {
+       text-align: center;
+       margin-top: 40px;
+    }
+    .f_2 h2 {
+          font-size: 33px;
+    }
+    .f_2 p a {
+        font-size: 16px;
+        line-height: 0px;
+     }
+    .f_2 p i {
+        margin: 6px;
+        padding: 5px;
+        font-size: 13px;
+    }
+    /*footer end*/
+
+
+
+
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /*header start*/
+   header{
+      padding: 30px 0 60px;
+   }
+   .logo img {
+    width: 160px;
+    height: 45px;
+  }
+   .menu ul li{
+      text-align: right;
+   }
+   .menu ul li a {
+      font-size: 20px;
+   }
+   .h_text h1{
+      font-size: 110px;
+   }
+   .h_text p {
+     margin-bottom: 15px;
+     font-size: 18px;
+  }
+  .btn_common {
+    width: 160px;
+    height: 45px;
+    font-size: 17px;
+    
+  }
+   /*header end*/
+   /*popular start*/
+   .Popular{
+        padding: 50px 0 70px;
+    }
+    .p_img img {
+        width: 70%;
+    }
+   .p_h1{
+        font-size: 80px;
+    }
+    .p_p{
+         font-size: 18px;
+    }
+    .p_item {
+       padding: 0 60px;
+       margin-right: 0px;
+       margin-top: 40px;
+    }
+
+
+   /*popular end*/
+   /*Statistic start*/
+   .Statistic{
+      padding: 50px 0 70px;
+   }
+  .s_card {
+       margin: 45px auto 0;
+       width: 80%;
+       height: 85%;
+     }
+   .s_h2 {
+        margin-top: 17px;
+        font-size: 20px;
+   }
+   .s_p {
+        font-size: 20px;
+    }
+    /*Statistic end*/
+    /*our menu start*/
+   .u_menu{
+       padding: 50px 0 70px;
+  
+   }
+    .menu_item {
+       margin-top: 45px;
+       padding: 0 75px;
+   }
+   .menu_img {
+       margin-top: 0px;
+   }
+   .menu_img img {
+      width: 80px;
+      height: 80px;
+   }
+  .menu_text {
+      text-align: center;
+  }
+  .m_h2 {
+      margin-top: 5px;
+     font-size: 43px;
+  }
+  .m_p {
+      font-size: 18px;
+  }
+
+  
+   /*our menu end*/
+   /*Delicious start*/
+  .Delicious {
+      padding: 50px 0 70px;
+  }
+  .d_text {
+      margin: 0px 0px 0px 0px;
+      text-align: center;
+   }
+   .d_text h1 {
+        font-size: 80px;
+    }
+   .d_text p {
+      margin: 10px 0 15px;
+      font-size: 19px;
+   }
+  /*Delicious end*/
+  /*Package start*/
+    .Package{
+        padding: 50px 0 70px;
+    }
+    .Pack_item {
+        width: 70%;
+    }
+
+   /*Package end*/
+   /*chef start*/
+   .Chef{
+       padding: 50px 0 70px;
+   }
+   .c_img img {
+       width: 35%;
+   }
+   .c_text p {
+       margin: 22px 0px;
+       font-size: 22px;
+     
+    }
+    .c_text h1 {
+        font-size: 70px;
+    }
+
+
+   /*chef end*/
+    /*form start*/
+   .form{
+       padding: 50px 0 70px;
+     
+     }
+     .c_input {
+        height: 45px;
+        font-size: 20px;
+   }
+    .c_submit {
+        height: 45px;
+        font-size: 20px;
+    }
+
+   /*form end*/
+   /*footer start*/
+     footer{
+         padding: 50px 0 70px;
+    }
+    .f_1 {
+        text-align: center;
+    }
+    .f_h2 {
+
+        font-size: 45px;
+     }
+     .f_p {
+        font-size: 18px;
+    }
+    .f_2 {
+       margin-top: 40px;
+    }
+    .f_2 h2 {
+      font-size: 30px;
+    }
+    .f_2 p a {
+        font-size: 16px;
+        line-height: 0px;
+     }
+    .f_2 p i {
+        margin: 6px;
+        padding: 5px;
+        font-size: 13px;
+    }
+      /*footer end*/
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+   /*header start*/
+   header{
+      padding: 30px 0 70px;
+   }
+   .logo a img{
+      width: 180px;
+  }
+   .menu ul li{
+      text-align: right;
+   }
+   .menu ul li a{
+      font-size: 20px;
+   }
+   .h_text h1{
+      font-size: 170px;
+   }
+   .h_text p {
+      margin-bottom: 20px;
+      font-size: 22px;
+  }
+  .btn_common{
+     width: 195px;
+     height: 50px;
+     font-size: 20px;
+    
+  }
+   /*header end*/
+   /*popular start*/
+   .Popular{
+        padding: 80px 0 90px;
+    }
+   .p_h1{
+        font-size: 100px;
+    }
+    .p_p{
+         font-size: 20px;
+    }
+
+    .p_item {
+        margin-right: 0px;
+    
+     }
+    .p_img img {
+       width: 80%;
+    }
+    .p_h2 {
+        font-size: 50px;
+    }
+    .p_text {
+        font-size: 19px;
+    }
+   /*popular end*/
+   /*Statistic start*/
+   .Statistic{
+      padding: 80px 0 90px;
+   }
+   .s_card {
+       margin: 50px auto 0;
+       width: 80%;
+       height: 95%;
+     }
+   .s_h2 {
+      margin-top: 30px;
+      font-size: 30px;
+   }
+   .s_p {
+        font-size: 25px;
+    }
+    /*Statistic end*/
+    /*our menu start*/
+  .u_menu{
+       padding: 80px 0 90px;
+  
+  }
+  .menu_item {
+       margin-top: 50px;
+       padding: 0 70px;
+   }
+   .menu_img {
+       margin-top: 0px;
+   }
+  .menu_text {
+      text-align: center;
+  }
+  .m_h2 {
+      margin-top: 10px;
+  }
+
+  /*our menu end*/
+   /*Delicious start*/
+    .Delicious {
+        padding: 80px 0 90px;
+    }
+    .d_text {
+        margin: 0px 0px 0 0px;
+        text-align: center;
+
+    }
+   .d_text h1 {
+        font-size: 80px;
+    }
+    .d_text p {
+        font-size: 25px;
+    }
+    /*Delicious end*/
+    /*Package start*/
+    .Package{
+        padding: 80px 0 90px;
+    }
+     .Pack_h2 {
+           margin: 20px 0 8px;
+           font-size: 30px;
+    }
+    .Pack_item {
+       padding: 29px 0px 5px;
+       width: 100%;
+       height: 320px;
+    }
+    .Pack_img img {
+         width: 35%;
+     }
+    .Pack_p {
+        font-size: 16px;
+    }
+    .Pack_btn {
+       font-size: 18px;
+    }
+
+   /*Package end*/
+   /*chef start*/
+   .Chef{
+       padding: 80px 0 90px;
+   }
+   .c_img img {
+       width: 35%;
+   }
+   .c_text p {
+       margin: 25px 0px;
+       font-size: 33px;
+     
+    }
+    .c_text h1 {
+       font-size: 80px;
+    }
+
+
+   /*chef end*/
+   /*form start*/
+   .form{
+       padding: 80px 0 90px;
+     
+     }
+    .c_input {
+        height: 50px;
+        font-size: 20px;
+     }
+    .c_submit {
+        height: 50px;
+        font-size: 20px;
+     }
+
+   /*form end*/
+   /*footer start*/
+     footer{
+         padding: 80px 0 90px;
+      }
+    .f_h2 {
+        font-size: 45px;
+     }
+     .f_p {
+        font-size: 16px;
+    }
+    .f_2 h2 {
+      font-size: 30px;
+    }
+    .f_2 p a {
+        font-size: 14px;
+        line-height: 0px;
+     }
+    .f_2 p i {
+        margin: 6px;
+        padding: 5px;
+        font-size: 13px;
+    }
+      /*footer end*/
+
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /*popular start*/
+   .p_img img {
+        width: 85%;
+    }
+    .p_h2 {
+        font-size: 60px;
+    }
+    .p_text {
+        font-size: 19px;
+    }
+    /*popular end*/
+    /*Statistic start*/
+    .s_card{
+       width: 68%;
+       height: 95%;
+    }
+    .s_h2 {
+       margin-top: 40px;
+       font-size: 40px;
+   }
+   .s_p {
+        font-size: 33px;
+    }
+    /*Statistic end*/
+
+    /*Delicious start*/
+    .d_text {
+       margin: 150px 0px 0 30px;
+    
+    }
+     .d_text h1 {
+        font-size: 80px;
+    }
+    .d_text p {
+        font-size: 25px;
+    }
+    /*Delicious end*/
+    /*package start*/
+    .Pack_h2 {
+       margin: 20px 0 8px;
+       font-size: 40px;
+    }
+    .Pack_item {
+       padding: 29px 0px 21px;
+       width: 100%;
+       height: 400px;
+    }
+    .Pack_p {
+        font-size: 20px;
+    }
+    .Pack_btn {
+       font-size: 20px;
+    }
+    /*package end*/
+    /*form start*/
+    .c_input {
+        height: 50px;
+        font-size: 20px;
+   }
+    .c_submit {
+        height: 50px;
+        font-size: 20px;
+    }
+    /*form end*/
+   
+
+}
+  /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+     /*popular start*/
+     .p_img img {
+          width: 85%;
+      }
+        /*popular end*/
+
+}
+
+ /*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+  /*Statistic start*/
+  .s_card {
+    width: 60%;
+    height: 100%;
+    
+   }
+ /*Statistic end*/
+}
